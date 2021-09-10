@@ -23,6 +23,7 @@ hr {
     /** padding-left: 1rem;
     padding-right: 1rem;
     if we give only top and right, then top will be applied to bottom and right will be applied to left, So, instead of writing the above padding statement, we can write: **/
+    
     padding: 0rem 1rem;
 
 }
