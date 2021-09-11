@@ -54,7 +54,6 @@ hr {
 /** lists **/
 .list-non-bullet {
     list-style: none;
-    padding-inline-start: 0rem;
 }
 
 .list-item-inline {
