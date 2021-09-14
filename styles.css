@@ -136,6 +136,11 @@ hr {
      font-size: large;
 }
 
+.footer .list-non-bullet {
+    list-style: none;
+    padding-inline-start: 0px;
+}
+
 .footer .ul{
     padding-inline-start: 0px;
 }
